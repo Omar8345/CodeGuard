@@ -52,7 +52,7 @@
   For example:
 
   ```js
-  window.location = "https://api.codeguard.tech/?link=https://gist.githubusercontent.com/Omar8345/1038a82e7db5f81d0722a4f2ab701924/raw/b213490f419b1d67de6a6a1647557934b97fc1ef/nicecode.js
+  window.location = "https://api.codeguard.tech/?link=https://gist.githubusercontent.com/Omar8345/1038a82e7db5f81d0722a4f2ab701924/raw/b213490f419b1d67de6a6a1647557934b97fc1ef/nicecode.js"
   ```
 
   ### Hosting the API on your machine
