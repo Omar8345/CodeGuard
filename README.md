@@ -9,7 +9,7 @@
 
   ***Why would I allow someone steal my code pretending that he wrote that script/code?***
 
-  So, I though why don't I make a code obfuscator to make my code hard to read and nearly impossible to understand? So, that's the beginning of **[CodeGuard](https://codeguard.tech)**.
+  So, I though why don't I make a code obfuscator to make my code hard to read and nearly impossible to understand? So, that's the beginning of **CodeGuard**.
 
   ## How did I make it? (Project workflow)
 
@@ -19,7 +19,7 @@
 
   ![image](https://user-images.githubusercontent.com/68811721/174752938-6b91d5ab-9678-4f6c-adf3-798965eb6928.png)
 
-  Upon the user selection, it will call the API located in `api.codeguard.tech` providing 2 parameters, the code link in `link` and the programming language in `lang`, of course you would like to try to use the **API** yourself, we will leave a guide below!
+  Upon the user selection, it will call the API providing 2 parameters, the code link in `link` and the programming language in `lang`, of course you would like to try to use the **API** yourself, we will leave a guide below!
 
   As soon as the **API has been called**, it will start getting the file and obfuscating it, as soon as the **obfuscated file is ready, it will be automatically downloaded at the user side**.
 
@@ -46,13 +46,13 @@
   It's really simple to use our API, in JavaScript, it only requires one line of code!
 
   ```js
-  window.location = "https://api.codeguard.tech/?link=<code link here>
+  window.location = "https://NO_LONGER_AVAILABLE/?link=<code link here>
   ```
 
   For example:
 
   ```js
-  window.location = "https://api.codeguard.tech/?link=https://gist.githubusercontent.com/Omar8345/1038a82e7db5f81d0722a4f2ab701924/raw/b213490f419b1d67de6a6a1647557934b97fc1ef/nicecode.js"
+  window.location = "https://NO_LONGER_AVAILABLE/?link=https://gist.githubusercontent.com/Omar8345/1038a82e7db5f81d0722a4f2ab701924/raw/b213490f419b1d67de6a6a1647557934b97fc1ef/nicecode.js"
   ```
 
   ### Hosting the API on your machine
@@ -71,6 +71,6 @@
 
   - You should see a local link, head into it or [http://127.0.0.1:5000/](http://127.0.0.1:5000/) and you should find some kind of error, just simply ignore it, now add the `link` parameter value and you should be good to go!
 
-  Read more at: [Introducing CodeGuard](https://omardevblog.toolsandapps4us.site/codeguard)
+  Read more at: [Introducing CodeGuard](https://omarcodes.io/codeguard)
 
   **Made using [Vercel](https://vercel.com) and [Linode](https://linode.com) for the [Hashnode](https://hashnode.com) X [Linode](https://linode.com) *Hackathon*!**
