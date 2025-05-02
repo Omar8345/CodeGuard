@@ -46,7 +46,7 @@
   It's really simple to use our API, in JavaScript, it only requires one line of code!
 
   ```js
-  window.location = "https://NO_LONGER_AVAILABLE/?link=<code link here>
+  window.location = "https://NO_LONGER_AVAILABLE/?link=<code link here>"
   ```
 
   For example:
