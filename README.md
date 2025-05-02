@@ -3,6 +3,8 @@
 
   ## Introducing CodeGuard - The open-source tool to obfuscate your JavaScript or Python code
 
+  > ***Please note we NO LONGER support codeguard.tech domain - the current owner is unknown, we are not responsible for any damages.***
+
   ## How I got this inspiration?
 
   **Once upon a time**, I was creating an **project which does really great thing including making meetings, etc.** and this idea came in my mind:
